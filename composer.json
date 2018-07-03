@@ -1,17 +1,17 @@
 {
-  "name": "arvatoscm/dockerize-magento2",
+  "name": "limitlessv/docker_dev_magento2",
   "description": "Docker infrastructure definitions for Magento 2",
   "license": "Apache-2.0",
   "authors": [
       {
-          "name": "Andreas Koch",
-          "email": "andy@ak7.io",
-          "homepage": "https://github.com/andreaskoch",
+          "name": "Shmuel Maruani",
+          "email": "asksam2002@gmail.com",
+          "homepage": "https://github.com/limitlessv",
           "role": "Author"
       }
   ],
   "type": "magento2-component",
-  "homepage": "https://github.com/arvatoSCM/dockerize-magento2",
+  "homepage": "https://github.com/limitlessv/docker_dev_magento2",
   "extra": {
     "map": [
       [
