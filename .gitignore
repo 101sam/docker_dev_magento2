@@ -105,8 +105,11 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
+# NOTE: .env can be also setup for Docker
 # dotenv
-.env
+#.env
+
+# dotenv
 
 # virtualenv
 .venv
